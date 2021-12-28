@@ -1,0 +1,13 @@
+console.log(tx.receipt)
+console.log(tx)
+tx.receipt
+var tx = await contract.createBank('0x31716aDa3F2BD8950c57dD628DeA0eB1b4F331C4',420)
+await contract.createBank('0x31716aDa3F2BD8950c57dD628DeA0eB1b4F331C4',420)
+contract.createBank('0x31716aDa3F2BD8950c57dD628DeA0eB1b4F331C4',420)
+contract
+const contract = await bf.attach('0x31716aDa3F2BD8950c57dD628DeA0eB1b4F331C4')
+cont contract = await bf.attach('0x31716aDa3F2BD8950c57dD628DeA0eB1b4F331C4')
+bf.address
+bf
+const bf = await ethers.getContractFactory("BankFactory")
+cls
